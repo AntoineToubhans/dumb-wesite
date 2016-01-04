@@ -1,1 +1,4 @@
-This is a dumb website.
+DumbWebSite v0.01
+========================
+
+This is a dummy website.
