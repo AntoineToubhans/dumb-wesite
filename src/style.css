@@ -1,0 +1,10 @@
+body { 
+    background: #aaffaa;
+}
+
+h2{
+    margin: 5px;
+    padding: 3px;
+    background-color: black;
+    color: white;
+}
