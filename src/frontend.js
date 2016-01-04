@@ -12,4 +12,6 @@ var dumb_printer = function(){
 }
 
 
-onload=function(){ dumb_printer() }
+onload=function(){
+    setTimeout("dumb_printer()", 5000);
+}
